@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Gordon Glandon-Sigler.
 
-I am enjoying this class
+My Intended major at Wright State University is Information Technology and Cybersecurity.
+
+Two projects I am going to be working on this semester is learning how to code in PHP, and to learn how to use a Linux based system. 
