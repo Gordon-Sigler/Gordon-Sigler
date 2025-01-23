@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am enjoying this class
+My name is Gordon Glandon-Sigler. I am currently going for a degree in Information technology and Cybersecurity. A couple projects I am working on currently this semester is learning PHP, 
